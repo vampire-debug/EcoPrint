@@ -1,6 +1,6 @@
 # 🌱 EcoPrint – Smart Printing & Paper Waste Analyzer
 
-**EcoPrint** is a smart sustainability-focused web application designed to analyze printing activities and estimate their environmental impact. The application helps users understand paper consumption, water usage, CO₂ emissions, printing costs, and potential savings through sustainable printing practices such as double-sided printing.
+**EcoPrint** is a smart sustainability-focused web application designed to analyze printing activities and estimate their environmental impact. The application helps users understand paper consumption, water usage, CO₂ emissions, printing costs, and potential savings through sustainable printing practices such as double-sided printing. 
 
 🔗 **Live Demo:** https://ecoprint-nmit.streamlit.app/
 
